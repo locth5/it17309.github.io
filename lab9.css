@@ -1,0 +1,13 @@
+.boxcenter{
+    width:80%;
+    margin: 0px auto;
+}
+.dangky{
+    width:70%;
+    margin: 0px auto;
+    height: 500px;
+    border-top: 1px solid #999;
+}
+.bgc{
+    background-image: linear-gradient(to bottom, #999,#FFF);
+}
